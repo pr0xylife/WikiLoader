@@ -1,0 +1,37 @@
+17.11.2023 | WikiLoader | TA544 |
+
+*************************************************
+
+.url https://supportlights.com/CustomerResources
+.zip b6d39183d106ffcd129541dfa8bed0bae54b61ce406e698be7faff5d779b7c32
+.js 04000e5047b7195b11edf23f4c3a8c32fe7661ffec461139908ae4be4e179df3
+.zip 80b33a175007e37759bc6f1ad34f8c88aafd45dc03fe452168db85ffec490809
+.dll cf6d2322e1a9ea3d1b05171942922d5627b202d15ed33b9673ace501ebb47f92
+
+*************************************************
+
+zip > .js > .exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Invoice 20231120965782_2975228817.js
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\1.js
+
+rundll32.exe ccupdate.dll, #45
+
+*************************************************
+
+distro urls:
+
+https://supportlights.com/CustomerResources
+https://stags.bluekai.com/site/55241?redir=https://supportlights.com/appropriate
+https://supportlights.com/appropriate
+https://cdn.discordapp.com/attachments/1170771441797566586/1174334633442291753/CCleaner.zip 
+
+*************************************************
+
+c2's
+
+https://baywatchrent.fr/doihn12ijok21.php?id=1
+https://hangdrums.fr/pofoiwjeniofj12.php?id=1
+https://mon-carnet-de-sante.fr/pqoicjein2.php?id=1
+https://ocube-consulting.fr/ofiuewq20o1.php?id=1
