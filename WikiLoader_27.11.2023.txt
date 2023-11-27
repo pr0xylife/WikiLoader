@@ -1,0 +1,38 @@
+27.11.2023 | WikiLoader | TA544 | 
+
+*************************************************
+
+.url https://automaticamentes.com/eCommerce
+.zip 1da26335f6b97cd216dd6188f607c6cd4169e99eca04bbacec75d22086045e75
+.zip f14934239ed7038b8e3955e2b6f54fffd30d02fb3283c05be77bfe8ec7f6d521
+.js 44289f86ed92181b750f49d0f6fc4f5be39dfcf3083c384cb0f531cbafd7576f
+.zip 85f8ab04c660547596cafd7335b0a57b0a55a4a7a6bb0b26bf249cdce6ef7046
+.dll 880ab4ff495259f9f9ed395da29c009494c8243a987b55c6f08ed3bca6a76849
+
+*************************************************
+
+zip > .js > .exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Nov.27_VVD-SIOT5077956041S_BL No-DADD0754026 Invoice Ref US10515352.js
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\main.js
+
+rundll32 C:\Users\Admin\AppData\Local\Temp\install.dll,#209
+
+*************************************************
+
+distro urls:
+
+https://automaticamentes.com/eCommerce
+https://wfc2.wiredforchange.com/dia/track.jsp?url=automaticamentes.com/maintenance
+https://automaticamentes.com/maintenance
+https://cdn.discordapp.com/attachments/1178661999073308722/1178746503800565770/dkoij12ndk1222.zip
+
+*************************************************
+
+c2's
+
+https://loventi.fr/ioj9d122.php?id=1
+https://artofpinball.fr/iiniid21.php?id=1
+https://www.profsiena.it/ij0ddd.php?id=1
+https://www.myoo.fr/okldmp1p2.php?id=1
