@@ -1,0 +1,46 @@
+18.12.2023 | WikiLoader | TA544 | 
+
+*************************************************
+
+.pdf 32f13566e971a0e674407446b5735dbddb05e19dc96fdb57909a4c19f783f346
+.url https://respostrong.com/ONEView
+.zip 7bae29a13839b2ad19368bff6c1af0099c6073302218e59019065852b5ba6736 (js)
+.js 46cce8711f3857896a9a1c01d26da35ff7172cd399f9b821cd7da80d52d33fcf
+.zip c6bc86a956c779ebf8333dad76ccfdb0cd9b4a18b24051a426fc0cec78e18814
+
+*************************************************
+
+zip > .js > .exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\BOL_Inv 20231218508466_6269422738.js
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\document.js
+
+Explorer.EXE
+
+notepad.exe
+
+svchost.exe -k netsvcs -s wlidsvc
+
+svchost.exe -k netsvcs -s wlidsvc
+
+*************************************************
+
+distro urls:
+
+https://respostrong.com/ONEView
+https://respostrong.com/Logistics
+https://respostrong.com/appropriate-document
+https://cdn.discordapp.com/attachments/1063894486901587979/1186331439340462090/v5b2.zip?ex=6592dc40&is=65806740&hm=673bdc5de5ba021e862fd39ba5247e92d416989fe779f8f7efce4143c85b34b0&
+
+*************************************************
+
+c2's
+
+https://gya.com.bo/diubg12uin.php?id=1
+https://onucleo.com.br/uhyvbdkjqwd.php?id=1
+https://la-box-de-ginette.fr/iuhd9081j2dk21.php?id=1
+https://verdemanzana.com.bo/idub12ud21.php?id=1
+https://www.crash-it.it/duyg12d.php?id=1
+
+*************************************************
