@@ -13,11 +13,11 @@
 
 zip > .js > .exe
 
-Explorer.EXE
-
 wscript.exe C:\Users\Admin\AppData\Local\Temp\DSV 122023624150_7018701115.js
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\out.js
+
+Explorer.EXE
 
 C:\Users\Admin\AppData\Local\Temp\npp.8.6.portable.x64\notepad.exe
 
