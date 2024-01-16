@@ -1,0 +1,39 @@
+16.01.2024 | WikiLoader | TA544 |
+
+*************************************************
+
+.url https://livespoints.com/sso.dsv.com
+.pdf 0bfb4ef49e8043ea7575aa5a96eba440abaee2316b7120c340ff7236765f4af9
+.zip 13d942453327d05f0fa9e5eb3e2cafdf0579e78507f65deac7600043598cc1e3
+.js 5257f30327d03ac482d02fb3bf48a98aeaba0bea2f0fdcad6682e45fe4651fe0
+.zip bef04e3b2b81f2dee39c42ab9be781f3db0059ec722aeee3b5434c2e63512a68
+.dll 67283e154b86612e325030e5a5f7995a6fe552d20655283ea5de8b53ff405f69
+
+*************************************************
+
+zip > .js > .exe
+
+Explorer.EXE
+
+C:\Users\Admin\AppData\Local\Temp\npp.8.6.portable.x64\notepad.exe
+
+explorer.exe
+
+C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+
+*************************************************
+
+distro urls:
+
+https://livespoints.com/sso.dsv.com
+https://livespoints.com/myDSV
+https://cdn.discordapp.com/attachments/1063900897270304770/1196763302303379496/npp.8.6.portable.x64.zip?ex=65b8cfae&is=65a65aae&hm=d30cc80d979d64493314348ac5a012ef68a7e030d08ec0360a636b7744b8f9b6&
+
+*************************************************
+
+c2's
+
+https://kashmirworldwide.com/ilw4kl.php?id=1
+https://multitraders.net/yv7clr.php?id=1
+https://thekostenfamilys.com/m1b7o3.php?id=1
+https://thichgiban.com/8sjdtu.php?id=1
