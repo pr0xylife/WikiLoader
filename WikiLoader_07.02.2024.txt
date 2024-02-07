@@ -23,6 +23,8 @@ C:\Windows\Explorer.EXE
 
 C:\Users\Admin\AppData\Local\Temp\npp.8.6.portable.x64\notepad.exe
 
+C:\Users\Admin\AppData\Local\Temp\\npp.8.6.portable.x64\plugins\mimeTools.dll
+
 explorer.exe
 
 StartMenuExperienceHost.exe -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
