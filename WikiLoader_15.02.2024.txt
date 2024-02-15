@@ -1,0 +1,47 @@
+15.02.2024 | WikiLoader | TA544 |
+
+*************************************************
+
+.url https://kontaktlines.com/us.kuehne-nagel.com
+.pdf 25c7d6530d1b7b4e8fe1b262234ee8691434ee9ca24e12b3f3419681f0de7208
+.zip e10427f08bde2f88c5f24a47d5ee660901d5b44dbe55a9451c5237b92dc13d0f
+.js b9e7595bb848346eb265d0ecf578c448200b5faa2e6f8ad6454ce1b71de4e174
+.zip e4ac8bb0302535061a238b09e6e3a7ca14300439bfa72608a580987702ee8552
+.dll 1c1d739f0282bfd9367e29ca81c61ed4a731e5150a836d0371e5e9d0121c9dfd
+
+*************************************************
+
+zip > .js > .exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\00066375765 02-15-2024 207340_878502.js
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\additional_details.js
+
+Explorer.EXE
+
+C:\Windows\Explorer.EXE
+
+C:\Users\Admin\AppData\Local\Temp\npp.8.6.portable.x64\notepad.exe
+
+explorer.exe
+
+StartMenuExperienceHost.exe -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+
+*************************************************
+
+distro urls:
+
+https://frodida.org/BannerClick.php?BannerID=29&LocationURL=https://miosecurezza.com/Financial_access
+https://miosecurezza.com/Financial_access
+https://miosecurezza.com/additional_details
+https://cdn.discordapp.com/attachments/1063900897270304770/1207265114458161172/4_npp.8.6.portable.x64.zip?ex=65df0441&is=65cc8f41&hm=d50d965ba1160c4938036ae1fe0c112aab97f4aa193b8c0af2c8084b3f541320&
+
+*************************************************
+
+c2's
+
+hhttps://miguelkhoury.com/web/wp-content/themes/twentytwenty/ayboiw.php?id=1
+https://mesabierta.org/wp-content/themes/twentytwentyone/nhdxtk.php?id=1
+https://mediterraneaclean.com/wp-content/themes/twentythirteen/hcslmt.php?id=1
+https://www.joannamalecka.pl/wp-content/themes/twentytwenty/u7arje.php?id=1
+
