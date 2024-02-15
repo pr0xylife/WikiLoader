@@ -19,13 +19,11 @@ wscript.exe C:\Users\Admin\AppData\Local\Temp\additional_details.js
 
 Explorer.EXE
 
-C:\Windows\Explorer.EXE
-
 C:\Users\Admin\AppData\Local\Temp\npp.8.6.portable.x64\notepad.exe
 
 explorer.exe
 
-StartMenuExperienceHost.exe -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
 
 *************************************************
 
