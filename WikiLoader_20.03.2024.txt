@@ -2,12 +2,12 @@
 
 *************************************************
 
-.url https://flagmatilo.com/confidential-legal
-.pdf 
-.zip 
+.url https://flagmatilo.com/document_conditions
+.pdf 217b7cb60a4bf96d795469046132a2087c1257fa7b887a5b195cb90c648b9ca7
+.zip 2449bd55ba176c18c926ac529022e1ca4cc5fde3692ffce819c9b03faa45d481
 .js 
-.zip 
-.dll 
+.zip 5af95489c5c3c6e2643a4218543e6e39b62ed6c5b4c97cef9c812ba913d4f7f2
+.dll c6c250e1cd6d5477b46871ffe17deac248d723ad45687fc54ae4fc5e3f45d91c
 
 *************************************************
 
@@ -29,8 +29,8 @@ C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -Ser
 
 distro urls:
 
-https://flagmatilo.com/confidential-legal
 https://flagmatilo.com/document_conditions
+https://flagmatilo.com/confidential-legal
 https://cdn.discordapp.com/attachments/1159142834197233796/1217588680525480127/1_npp.8.6.4.portable.x64.zip?ex=660492d3&is=65f21dd3&hm=0043fd70a199dd3ab32f540b51dfc71b64873bfb658add12378b505f99dd18b9&
 
 *************************************************
