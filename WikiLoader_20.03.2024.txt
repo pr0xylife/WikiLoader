@@ -1,0 +1,48 @@
+20.03.2024 | WikiLoader | TA544 |
+
+*************************************************
+
+.url https://flagmatilo.com/confidential-legal
+.pdf 
+.zip 
+.js 
+.zip 
+.dll 
+
+*************************************************
+
+pdf > url > .js > js > .exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\xx.js
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\document_conditions.js
+
+Explorer.EXE
+
+C:\Users\Admin\AppData\Local\Temp\4_npp.8.6.3.portable.x64.zip\notepad.exe
+
+explorer.exe
+
+C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+
+*************************************************
+
+distro urls:
+
+https://flagmatilo.com/confidential-legal
+https://flagmatilo.com/document_conditions
+https://cdn.discordapp.com/attachments/1159142834197233796/1217588680525480127/1_npp.8.6.4.portable.x64.zip?ex=660492d3&is=65f21dd3&hm=0043fd70a199dd3ab32f540b51dfc71b64873bfb658add12378b505f99dd18b9&
+
+*************************************************
+
+c2's
+
+C2s
+https://www.alabamacarhorns.com/wp-content/themes/twentytwentyfour/34uo7s.php?id=1
+https://13300.org/wp-content/themes/twentytwentythree/t51kkf.php?id=1
+https://alternativetracks.com/wp-content/themes/twentytwentyfour/c9wfar.php?id=1
+https://www.amysinger.com/wp-content/themes/twentyten/b9un4f.php?id=1
+https://lurdyvanafernandesmkd.com/wp-content/themes/twentytwentytwo/pam8oa.php?id=1
+https://www.yukon.de/wp-content/themes/twentytwentytwo/n2gd2t.php?id=1
+
+*************************************************
