@@ -13,9 +13,9 @@
 
 pdf > url > .js > js > .exe
 
-wscript.exe C:\Users\Admin\AppData\Local\Temp\xx.js
+wscript.exe C:\Users\Admin\AppData\Local\Temp\130878_Inv_03_20_2024_48522471_114759.js
 
-wscript.exe C:\Users\Admin\AppData\Local\Temp\document_conditions.js
+wscript.exe C:\Users\Admin\AppData\Local\Temp\confidential-legal.js
 
 Explorer.EXE
 
