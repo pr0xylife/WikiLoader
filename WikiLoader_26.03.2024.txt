@@ -1,0 +1,41 @@
+26.03.2024 | WikiLoader | TA544 |
+
+*************************************************
+
+.url https://apllicam.com/Corporate-financial
+.pdf 
+.zip 308d35ce6b416b319646b5488d4b9c0da60b6a210d1ef66b68a750d838563e68
+.js 2cf0f10d1d86a27254b3d3b55d7ecb7211798adb8607e68897d6917c6fc7234b
+.zip 9af7cff793aa9a53b890331046d268e3627bb2a6b5613cdb49619c07412ccc03
+.dll 148b29123bb0c28614858460d7a10707469fecebd6a9ff1da98a0c76a89a9819
+
+*************************************************
+
+pdf > url > .js > js > .exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\959446_Copy_03_26_2024_57907164_805618.wsf
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\res.js
+
+Explorer.EXE
+
+C:\Users\Admin\AppData\Local\Temp\4_npp.8.6.3.portable.x64.zip\notepad.exe
+
+explorer.exe
+
+C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+
+*************************************************
+
+distro urls:
+
+https://apllicam.com/Corporate-financial
+https://apllicam.com/operational-resources
+https://cdn.discordapp.com/attachments/1063894486901587979/1221860531594596433/2_npp.8.6.4.portable.x64.zip?ex=66141d4b&is=6601a84b&hm=d2e98cf94633ac960476f283cc188da331ccb5b10b7ef53a17c7b07c9154a955&
+
+*************************************************
+
+c2's
+
+
+*************************************************
