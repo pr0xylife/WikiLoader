@@ -1,0 +1,47 @@
+17.04.2024 | WikiLoader | TA544 |
+
+*************************************************
+
+.url https://pankerfan.com/accessinformation?d0675c3b04d3fed5b988&shares=vDbLo&KPYS=867025b4b44821e8-9bd7a835-7c48a739-3fee3019-6804d329eda6566602832b&xz=217#fR5412805674659065609
+.pdf 0112ea3dd460b8776d52bcf9fad234ddbf19e4e2b6666b8560aa173764e14af7
+.zip 44eb09ff486d2b84d59674992c52e8e3c0726c6b82c7e42bde94d32579d1524f
+.zip 94eb56c4cbfc817ed385ac947d2f2e5812ffdae5e3a669c84dc6001f66625199
+.js c605b5adea1737158cbd8b02ffe102eafb9575ccef3bcc88b7bb18c517fd9891
+.zip cade322bf1c5f58f44d8970de70ca83cf53d2d6ab5e43f53a8ed26a343c95309
+.dll 1d6f76acecff63fb373b5774a3cb34b87266a4a4bbb8e3a0757d107187d280ee
+
+*************************************************
+
+pdf > url > .js > js > .exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Invoice_818493 2024_4_18605749_5248217.js
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\out.js
+
+Explorer.EXE
+
+C:\Users\Admin\AppData\Local\Temp\4_npp.8.6.3.portable.x64.zip\notepad.exe
+
+explorer.exe
+
+C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+
+*************************************************
+
+distro urls:
+
+https://pankerfan.com/accessinformation?d0675c3b04d3fed5b988&shares=vDbLo&KPYS=867025b4b44821e8-9bd7a835-7c48a739-3fee3019-6804d329eda6566602832b&xz=217#fR5412805674659065609
+https://pankerfan.com/eft-edi-customer?bzR=IskOD&br=JYDmkADmZ&sourceMH=htRRR&ffcontent=YPIBjqCe&Cb_cid=7987028&w=2520205
+https://cdn.discordapp.com/attachments/1063894486901587979/1229768405582741570/1_npp.8.6.3.portable.x64.zip?ex=6630e213&is=661e6d13&hm=0fd74782ead9fca83748c0b045e33161bcb75d85bfa776a34e0fd0999943080d&
+
+*************************************************
+
+c2's
+
+https://djibek.com/wp-content/themes/twentytwentyone/sb9ivy.php?id=1
+https://www.savetheworldpodcast[.]com/wp-content/themes/twentytwentyone/msecgc.php?id=1
+https://retrobox.rocks/wp-content/themes/twentytwentyfour/vhpg2j.php?id=1
+https://dreamerz.vn/wp-content/themes/twentytwentyone/0srbuw.php?id=1
+https://www.briccodeldente.it/wp-content/themes/white-rock-progression/l3h0y5.php?id=1
+
+*************************************************
