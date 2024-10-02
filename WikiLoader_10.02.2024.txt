@@ -8,7 +8,7 @@
 
 *************************************************
 
-pdf > url > .js > js > .exe
+url > .msi > > .exe
 
 Explorer.EXE
 
