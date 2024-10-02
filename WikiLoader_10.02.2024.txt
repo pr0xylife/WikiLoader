@@ -8,6 +8,13 @@
 
 *************************************************
 
+Canton Pure Jonna Network Technology Co., Ltd.
+GlobalSign GCC R45 EV CodeSigning CA 2020
+Thumbprint 3E6B9866607BBB91020938BF77CD7A8E919692B0
+Serial Number 2D DF CE 3F 64 D9 D0 31 13 A1 EC 75
+
+*************************************************
+
 url > .msi > .exe
 
 Explorer.EXE
