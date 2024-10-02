@@ -1,0 +1,57 @@
+10.02.2024 | WikiLoader | TA544 |
+
+*************************************************
+
+.url https://globalvpnproject.info/?gad_source=1&gclid=eaiaiqobchmi7mns9lteiamvzgctbh3mvrxxeaayaiaaegjbk_d_bwe
+.msi 21689eafdfd6005ae75683a423b7816592cdf9aae03d983782d9272bb71787b9
+.dll 119ecd68ab332770bcfe92a3ccdb549b0078d91cc2292bb9d02dc8aa27ca3cc3
+
+*************************************************
+
+pdf > url > .js > js > .exe
+
+Explorer.EXE
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\GlobalProtect64.msi
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+notepad.exe
+
+Palo Alto Networks\GlobalProtect\PanGPS.exe -commit
+
+vssvc.exe
+
+svchost.exe -k DcomLaunch -p -s DeviceInstall
+
+DrvInst.exe "4" "1" "C:\Program Files\Palo Alto Networks\GlobalProtect\pangpd.inf" "9" "4473c0673" "0000000000000148" "WinSta0\Default" "0000000000000158" "208" "C:\Program Files\Palo Alto Networks\GlobalProtect"
+
+PanGPS.exe
+
+PanGPA.exe fromGPS
+
+*************************************************
+
+distro urls:
+
+https://globalvpnproject.info/?gad_source=1&gclid=eaiaiqobchmi7mns9lteiamvzgctbh3mvrxxeaayaiaaegjbk_d_bwe
+https://globalvpnproject.info/wp-content/redirect.php
+https://downloadglobalproject.info/download.php
+https://tracker.thefiables.com/v81sS5
+
+*************************************************
+
+c2's
+
+http://sdtruckinglogistics.net/wp-content/themes/twentytwentytwo/cb2v5p.php
+http://auditoresdezaragoza.es/modules/dashgoals/t2apqe.php
+http://iconic-tec.de/modules/mod_feed/tmpl/e3ycof.php
+http://velintra.org/wp-content/themes/twentytwentyone/bthdfl.php
+http://hablainglesfacil.com/wp-content/themes/twentytwentytwo/8rw0ar.php
+http://lionsclub-issoire.org/wp-content/themes/twentytwenty/io3ryx.php
+http://indiaaidfoundation.org/wp-content/themes/edumall-child/ethec4.php
+http://jalandharagroexport.com/wp-content/themes/twentytwentytwo/vqra4w.php
+
+*************************************************
